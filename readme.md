@@ -229,6 +229,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and a web interface.
 * [dockly](https://github.com/lirantal/dockly) - Docker console UI and Dashboard for quickly managing and inspecting  Containers and Services.
 * [dry](https://github.com/moncho/dry) - Docker manager for the terminal.
+* [emplace](https://github.com/tversteeg/emplace) - Synchronize installed packages using git.
 * [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
 * [fselect](https://github.com/jhspetersson/fselect) - 'find' replacement with SQL-like syntax.
 * [fx](https://github.com/antonmedv/fx) - Command-line JSON viewer.
