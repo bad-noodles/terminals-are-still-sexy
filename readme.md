@@ -136,6 +136,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Tilda](https://github.com/lanoxx/tilda) - Gtk based drop down terminal for Linux and Unix.
 * [Wave Terminal](https://waveterm.dev) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
+* [WezTerm](https://wezfurlong.org/wezterm/) - Cross-platform terminal multiplexer with Ligatures, Hyperlinks, Searchable Scrollback and more.
 * [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 * [xterm](https://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
