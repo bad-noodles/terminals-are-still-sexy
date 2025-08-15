@@ -149,6 +149,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [basher](https://github.com/basherpm/basher) - Package manager for shell scripts.
 * [bpkg](https://www.bpkg.sh/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
 * [composer](https://getcomposer.org) - Composer is a package manager for PHP.
+* [gah](https://github.com/marverix/gah) - App installer for Linux and macOS, that makes installing apps from GitHub much easier and less monotonic.
 * [guix](https://www.gnu.org/software/guix/) - Functional package manager for installed software packages and versions.
 * [nix](https://nixos.org/nix/) - Powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 * [npmjs](https://www.npmjs.com/) - Package manager for JavaScript.
